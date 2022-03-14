@@ -1,0 +1,4 @@
+- docker build .
+- docker run HASH_NUMBER_IN_THE_END
+- docker ps
+- docker stop randon_name_found_in_ps_command
